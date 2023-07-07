@@ -1,0 +1,9 @@
+package crmrr;
+
+public interface sample2 {
+	
+		public abstract void m1();
+		
+		
+
+}
